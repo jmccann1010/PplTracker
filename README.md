@@ -1,6 +1,6 @@
 # PplTracker
 
-PplTracker is an ASP.NET Core web application for managing and tracking people within an organisation. It provides a Razor Pages UI and a versioned REST API backed by Entity Framework Core and SQL Server.
+PplTracker is an ASP.NET Core web application for managing and tracking family schedules. It provides a Razor Pages UI and a versioned REST API backed by Entity Framework Core and SQL Server.
 
 ## Technology Stack
 
